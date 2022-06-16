@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-# Adding config.py
-=======
 # Adding config.py file
->>>>>>> a6322c752a9cd62ee07c99580410ceca1a1a86dd
 config.py
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
